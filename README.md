@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://harshal-oza-nx-license-website.pages.dev/nexora-mark.png" alt="" width="96" height="96">
+<img src="https://harshaloza.design/nexora-mark.png" alt="" width="96" height="96">
 
 # NEXORA
 
@@ -10,9 +10,9 @@ Professional tools for Siemens NX, and the Windows application that installs
 them and manages your licence.
 
 [**⬇ Download the latest version**](https://github.com/harshaloza/HARSHAL-OZA-LICENSE-MANAGER/releases/latest/download/HarshalOzaToolkitAndLicense.msi)
- · [Website](https://harshal-oza-nx-license-website.pages.dev/)
+ · [Website](https://harshaloza.design/)
  · [All releases](https://github.com/harshaloza/HARSHAL-OZA-LICENSE-MANAGER/releases)
- · [Support](https://harshal-oza-nx-license-website.pages.dev/support/)
+ · [Support](https://harshaloza.design/support/)
 
 </div>
 
@@ -39,7 +39,7 @@ download against the SHA-256 hash published with the release.
 
 The application itself is free to install, and so is NX Backup and Restore. The
 NX tools need a licence, which you buy for the Machine ID shown on your
-Dashboard — on the [website](https://harshal-oza-nx-license-website.pages.dev/buy/)
+Dashboard — on the [website](https://harshaloza.design/buy/)
 or inside the application.
 
 **Requirements:** Windows 10 or 11, 64-bit · a supported Siemens NX installation
@@ -61,7 +61,7 @@ or inside the application.
 
 One licence covers every tool on one computer. The Post Processor is listed in
 the application as coming soon. Full descriptions:
-[nexora tools](https://harshal-oza-nx-license-website.pages.dev/tools/).
+[nexora tools](https://harshaloza.design/tools/).
 
 ---
 
@@ -84,8 +84,8 @@ the application as coming soon. Full descriptions:
 
 ## Help
 
-- **FAQ:** <https://harshal-oza-nx-license-website.pages.dev/faq/>
-- **Support:** <https://harshal-oza-nx-license-website.pages.dev/support/>
+- **FAQ:** <https://harshaloza.design/faq/>
+- **Support:** <https://harshaloza.design/support/>
 - **Email:** harshaloza66@gmail.com — answered within 2 business days
 
 Please include your NEXORA version (About page) and your NX version. **Never
@@ -107,11 +107,11 @@ need your own properly licensed NX installation.
 The software is **licensed, not sold**, and is not open source. See
 [LICENSE](LICENSE) in this repository, and the full terms:
 
-- [Terms & Conditions](https://harshal-oza-nx-license-website.pages.dev/legal/terms/)
-- [Refund & Cancellation Policy](https://harshal-oza-nx-license-website.pages.dev/legal/refund/)
-- [Privacy Policy](https://harshal-oza-nx-license-website.pages.dev/legal/privacy/)
+- [Terms & Conditions](https://harshaloza.design/legal/terms/)
+- [Refund & Cancellation Policy](https://harshaloza.design/legal/refund/)
+- [Privacy Policy](https://harshaloza.design/legal/privacy/)
 
-© 2026 Harshal Oza, trading as MoldXpert Technologies, Rajkot, Gujarat, India.
+© 2026 Harshal Oza, trading as MouldXpert Technologies, Rajkot, Gujarat, India.
 All rights reserved.
 
 <sub>The installer is named `HarshalOzaToolkitAndLicense.msi` for historical
